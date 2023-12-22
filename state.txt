@@ -1,1 +1,7 @@
+// Memfile:
+// comments:
+// ** refers to a moment of the file will look for then a code
 
+**attempts:
+0
+**
